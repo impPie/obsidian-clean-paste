@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "clean-paste-on-the-fly",
+	"name": "Clean Paste",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically removes extra blank lines (multiple newlines) when you paste text.",
+	"author": "impPie",
+	"authorUrl": "https://github.com/impPie",
 	"isDesktopOnly": false
 }
