@@ -1,7 +1,7 @@
 {
-	"id": "clean-paste-on-the-fly",
-	"name": "Clean Paste",
-	"version": "1.0.1",
+	"id": "superclean-paste",
+	"name": "SuperClean Paste",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically removes extra blank lines (multiple newlines) and all rich text formatting when you paste text.",
 	"author": "impPie",
