@@ -1,4 +1,4 @@
-# Clean Paste Plus
+# SuperClean Paste
 
 A simple plugin for Obsidian that automatically cleans up pasted text by removing extra blank lines and all rich text formatting. When you copy content from web pages, it often comes with unwanted empty lines. This plugin solves that by replacing multiple consecutive newlines with a single newline upon pasting.
 
