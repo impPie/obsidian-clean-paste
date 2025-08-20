@@ -3,7 +3,7 @@
 	"name": "Clean Paste",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Automatically removes extra blank lines (multiple newlines) when you paste text.",
+	"description": "Automatically removes extra blank lines (multiple newlines) and all rich text formatting when you paste text.",
 	"author": "impPie",
 	"authorUrl": "https://github.com/impPie",
 	"isDesktopOnly": false
